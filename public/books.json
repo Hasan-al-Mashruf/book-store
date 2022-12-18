@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Bridget Jones", 
+        "title": "Mad about the boy",
+        "ISBN": "0128240253",
+        "writer": "Helen Fielding", 
+        "price": "77.70",
+        "img": "https://i.ibb.co/DgwfGSs/book6.png",
+        "relesed": "Sep 14, 2020",
+        "Format": "Paperback, 1080 pages",
+        "Edition":4,
+        "Publisher":"Butterworth-Heinemann"
+   },
+   {
+        "name": "The ruby of Egipt", 
+        "title": "The ruby of Egipt",
+        "ISBN": "0128240253",
+        "writer": "Cat Howar", 
+        "price": "60",
+        "img": "https://i.ibb.co/fCvR7zn/book7.png",
+        "relesed": "Sep 22, 2021",
+        "Format": "Paperback, 550 pages",
+        "Edition":2,
+        "Publisher":"Butterworth-Heinemann"
+   },
+   {
+        "name": "Runt Sienna", 
+        "title": "Art history of Mistery",
+        "ISBN": "0128240253",
+        "writer": "Sara Wisseman", 
+        "price": "90.10",
+        "img": "https://i.ibb.co/xzV5f2D/book10.png",
+        "relesed": "Jan 18, 2022",
+        "Format": "Paperback, 900 pages",
+        "Edition":"latest",
+        "Publisher":"Butterworth-Heinemann"
+   },
+   {
+        "name": "Dead water", 
+        "title": "Dead water in sea",
+        "ISBN": "0128240253",
+        "writer": "Ann gragner", 
+        "price": "40.10",
+        "img": "https://i.ibb.co/YQSJK4L/book8.png",
+        "relesed": "March 19, 2022",
+        "Format": "Paperback, 650 pages",
+        "Edition":3,
+        "Publisher":"Butterworth-Heinemann"
+   }
+]
